@@ -2,6 +2,11 @@
   "name": "interactive-broadcasting-client",
   "version": "2.0.0",
   "private": true,
+  "engines": {
+    "node": "8.10.0",
+    "npm": "6.4.1",
+    "yarn": "^1.15.2"
+  },
   "dependencies": {
     "babel-polyfill": "^6.23.0",
     "classnames": "^2.2.5",
